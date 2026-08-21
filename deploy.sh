@@ -3,7 +3,7 @@
 echo "$(date) 🚀 Starting Deployment..."
 
 # Step 1: Go to project directory
-cd /home/ubuntu/cloud/aws-cloud-projects/project-3-auto-deploy || exit
+cd /home/ubuntu/aws-nginx-auto-deploy || exit
 
 # Step 2: Pull latest code
 echo "📥 Pulling latest code from GitHub..."
