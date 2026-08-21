@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "🚀 Starting Deployment..."
+echo "$(date) 🚀 Starting Deployment..."
 
 # Step 1: Go to project directory
 cd /home/ubuntu/cloud/aws-cloud-projects/project-3-auto-deploy || exit
